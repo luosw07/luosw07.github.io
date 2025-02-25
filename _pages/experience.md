@@ -115,19 +115,46 @@ NFLS has strong teaching capabilities and is committed to cultivating "internati
 
 ## 📑 Communication Experience of Mathematics
 
-### Algebra & Number Theory Summer School
+### 2024 Algebra & Number Theory Summer School
 
+- 🌍 **Location:** Beijing, China
 
+- ⏰ **Time:** July 2024 - August 2024
 
-### USTC-FDU Talent Program in Mathematics Communication
+- 🏠 **Host Unit:** **Academy of Mathematics and Systems Science, Chinese Academy of Science**
 
-### 2025 Summer Research Internship
+- 👥 **Main Supervisor:** **[Prof. Shouwu ZHANG](https://web.math.princeton.edu/~shouwu/)**, Princeton
+
+- 💻 **Website:** https://antss.amss.ac.cn
+
+- 📖 **Brief Description**: Learning courses of Algebraic Geometry, Algebraic Number Theory and Representation Theory of finite groups
+
+### 2024 USTC-FDU Talent Program in Mathematics Communication
+
+- 🌍 **Location:** Shanghai, China
+
+- ⏰ **Time:** December 2024
+
+- 🏠 **Host Unit:** **Math Department, University of Science and Technology of China** & **Math Department, Fudan University**
+
+- 👥 **Main Supervisor:** **[Prof. Xinan MA](http://staff.ustc.edu.cn/~xinan/)**
+
+- 📖 **Brief Description**: Engaged in communications with undergraduates at FDU of mathematical courses.
+
 
 ## 🧑‍🎓 Communication Experience of Student Unions
 
-### Wuhan University
+As a member of the Student Union of the School of the Gifted Young, I have attended the communication activities of student unions between different universities and USTC.
 
-### Shanghai Jiaotong University
+Up to now, I have paid visit to the following universities.
+
+- [Wuhan University](https://whu.edu.cn) (2023)
+
+- [Shanghai Jiaotong University](https://sjtu.edu.cn) (2024)
 
 # 💬 Skills & Languages
+
+- 🌟 **Skills:** C++, Mathematica, LaTeX
+
+- 🌟 **Languages:** Chinese (Native), English (TOEFL 102)
 
