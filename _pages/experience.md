@@ -5,7 +5,50 @@ author_profile: true
 redirect_from: 
   - /experience.html/
 ---
-# 🏫 Education 
+
+👋🏻 Here is my personal **academic experience**, including the **detailed** description of my **academic research** of mathematics, **eduation experience** from high school, the **communication experience of study and research** since I was admitted to university and the **skills and languages** I have learned.
+
+# 🧐 Academic Research Experience
+
+> This is only a **brief** list of my academic research experience with highlights of each research. The detailed information of each experience can be found at the **[research page](/research)**.
+
+## 🌟 2025 Summer Research Placement
+
+- 🌍 **Location:** Hong Kong, China
+
+- ⏰ **Expected Time:** July 2025 - August 2025
+
+- 🏠 **Host Unit:** **[Institude of Mathematical Science](http://www.ims.cuhk.edu.hk), [Chinese University of Hong Kong](https://cuhk.edu.hk)**
+
+- 👥 **Host Supervisors:** **[Prof. Zhouping XIN](https://www.google.com/search?client=safari&rls=en&q=zhouping+xin&ie=UTF-8&oe=UTF-8)** and **[Prof. Renjun DUAN](http://www.math.cuhk.edu.hk/~rjduan/)**
+
+- 📖 **Brief Description**: Do the mathematical study under the guidance of Professor Zhouping Xin. The main
+research field is to focus on the nonlinear Partial Differential Equations (PDEs), a rich
+and interdisciplinary field for understanding, analyzing, and solving equations
+involving partial derivatives of unknown functions, where the equations are nonlinear
+in nature. The task is to explore important research directions in the field of nonlinear
+PDEs and gain broader interests and knowledges for preparing the future postgraduate
+study.
+
+
+
+## 🌟 2024 "Science & Society" Seminar for Freshman
+
+- 🌍 **Location:** Hefei, Anhui, China
+
+- ⏰ **Time:** March 2024 - June 2024
+
+- 🏠 **Host Unit:** **[School of the Gifted Young](http://sgy.ustc.edu.cn), [University of Science and Technology of Science](https://ustc.edu.cn)**
+
+- 👥 **Host Supervisors:** **[Dr. Xiaosong HE](https://faculty.ustc.edu.cn/HEXIAOSONG/en/index.htm)** 
+
+- 📖 **Brief Description**: We constructed an experiment to discover the relationship between attention
+and the working memory. Additionally, we also attempted to discover the
+method by which we remember colours in working memory.
+
+- 💻 **Presentation Slides**: [click here to download](/files/1.pdf)
+
+# 🏫 Education Experience
 
 ## 💻 Bachelor of Science Degree
 
@@ -13,7 +56,7 @@ redirect_from:
 
 ![SGY](https://sgy.ustc.edu.cn/_upload/tpl/15/39/5433/template5433/htmlRes/logo1.png){: .center}
 
- I am now an undergraduate student at **[University of Science and Technology of China](https://ustc.edu.cn)** majoring in mathematics.
+ I am now an undergraduate sophomore student at **[University of Science and Technology of China](https://ustc.edu.cn)** majoring in mathematics.
 
 - ⏰ **Time:** September 2023 - Present
 
@@ -27,17 +70,17 @@ redirect_from:
 
 ### 📖 Freshman Year
 
-In the freshman year, I found myself interested in **pure mathematics**, especially in **algebra**. During this year, I learned about basic course in mathematics and physics, including analysis, linear & modern algebra, mechanics and electromagnetism. 
-
-Courses taken: In the first semester, I took Introduction to Life Science & Medicine, Computer Programming A, Academic English for Science and Technology A, Foundation of Algebra, Basic Sports, College English, Mechanics A, Mathematical Analysis I, Ideology, Morality, and Rule of Law, and in the second semester, I took Scientific Writing and Communication, College Physics – Base Experimentation A, Linear Algebra I, Reading and Evaluating a Scientific Paper, Electromagnetism A, Mathematical Analysis II, Basic Circuit Theory, Freshman Seminar, Collegiate Psychology.
+In the freshman year, I found myself interested in **pure mathematics**, especially in **algebra**. The course *Fundation of Algebra* makes me able to attempt to construct seminar on commutative algebra.
 
 ### ⏰ Sophomore year
 
 In the second year of undergraduate, I was enrolled in the **Hua Loo-Keng Talent Program in Mathematics**. During this year, I have learned classical theory of partial differential equaions, functional analysis and point-set or algebraic topology and attended seminar of representation theory & smooth manifolds.
 
-In the first semester, I have taken the following courses: Topology(H), Introduction to Differential Equations, Linear Algebra II, Mathematical Analysis III, Preliminaries to Algebraic Geometry (Auditor), Public Affairs in Life.
+At the very beginning of the first semester, I published **[series of recorded video lectures](https://www.bilibili.com/video/BV1JRpweWE3f)** on **fundamentals of algera** (i.e. introduce basic concepts and properties of algebraic structures and use them to explain elementary number theory and polynomials theory) at [Bilibili](https://bilibili.com), a website platform of videos in China (c.f. [talks](/talks)).
 
-At the very beginning of the first semester, 
+During the first semester, I learned the course *Introduction to Differential Equations*, which introduced basic linear PDEs such as wave equation, heat equation and Poisson's equation, deepening my insight and attrating me into the interest of **partial differential equations (PDEs)**. After that, I attempted to read Evan's textbook *Partial Differential Equations*, learned the concepts like Sobolev spaces and tried to read some paper on PDE research. I will perform a 2-month summer research on **nonlinear PDEs** under the guidance of **[Prof. Zhouping XIN](https://www.google.com/search?client=safari&rls=en&q=zhouping+xin&ie=UTF-8&oe=UTF-8)** and **[Prof. Renjun DUAN](http://www.math.cuhk.edu.hk/~rjduan/)** at **Institude of Mathematical Science, Chinese University of Hong Kong** this summer vacation.
+
+I gave a **lecture on mathematical analysis** to the freshman majoring in mathematics in the first semester (c.f. [talks](/talks)). During the winter vacation, I organized a **seminar on smooth manifolds** and gave 2 lectures "Revision of Topological Manifolds" and "Tangent Space of Smooth Manifolds" by myself. In the second semester, I will attend the **seminar on representation theory** and will give at least one lecture.
 
 ### 🥇 Selected Honor
 
@@ -61,11 +104,8 @@ My high school is **[Nanjing Foreign Language School](https://www.nfls.com.cn)**
 
 - 🌍 **Location:** Nanjing, Jiangsu, PRChina
 
-- 💌 **Characteristics**: 
+NFLS has strong teaching capabilities and is committed to cultivating "international compound talents with foreign language expertise, proficiency in both arts and sciences, and strong comprehensive abilities".
 
-    - strong teaching capabilities
-
-    - committed to cultivating "international compound talents with foreign language expertise, proficiency in both arts and sciences, and strong comprehensive abilities"
 ### 🥇 Selected Honor
 
 🌟 Zhou Enlai Scholarship 2022
@@ -73,4 +113,21 @@ My high school is **[Nanjing Foreign Language School](https://www.nfls.com.cn)**
 🌟 First Prize in Jiangsu at the National High School Students Mathematics League
 # 🫧 Communication
 
+## 📑 Communication Experience of Mathematics
+
+### Algebra & Number Theory Summer School
+
+
+
+### USTC-FDU Talent Program in Mathematics Communication
+
+### 2025 Summer Research Internship
+
+## 🧑‍🎓 Communication Experience of Student Unions
+
+### Wuhan University
+
+### Shanghai Jiaotong University
+
 # 💬 Skills & Languages
+
