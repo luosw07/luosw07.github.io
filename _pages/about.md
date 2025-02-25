@@ -7,15 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-![SGY](https://sgy.ustc.edu.cn/_upload/tpl/15/39/5433/template5433/htmlRes/logo1.png)
-
 🏫 I was admitted to **School of Gifted Young, University of Science and Technology of China** at fall 2023 and enrolled into the **Hua Loo-Keng Talent Program in Mathematics** at fall 2024.
 
-📚 I'm now a **17- year-old sophomore** undergraduate majoring **pure & applied mathematics**.
+![SGY](https://sgy.ustc.edu.cn/_upload/tpl/15/39/5433/template5433/htmlRes/logo1.png){: .center}
+
+
+📚 I'm now a **17-year-old sophomore** undergraduate student majoring **pure & applied mathematics**.
 
 🔬 My study & research interest is now in (pure or applied) **partial differential equations (PDEs).** 
 
 🎡 I am now a member in the Academic Department of the **Student Union of School of the Gifted Young**.
+
+# 🥇 Selected Honor
+
+🌟 Member of the School of the Gifted Young
+
+🌟 Member of the Hua Loo-Keng Talent Program in
+Mathematics
+
+🌟 2023 Outstanding Freshman Scholarship
+
+🌟 2024 Scholarship for Hua Loo-Keng Talent Program in Mathematics
+
+🌟 2024 Chen Linyi Honored Scholarship 
 
 
 # 📑 Brief Experience

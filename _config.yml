@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Siwei Luo # Username
+  linkedin         : # Siwei Luo # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -73,7 +73,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : luosw # Username
+  zhihu            : # luosw # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
