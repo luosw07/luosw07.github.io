@@ -28,6 +28,14 @@ The following 3 reports to download are my physics experiment reports in Chinese
 
 ⏬ Click to download the **[直流电源特性实验报告 (CHINESE VERSION)](https://academic.luosw.com.cn/files/zldytx.pdf)** of the report in PDF.
 
+## 🌟 Electromagnetism Report
+
+In the course Electromagnetism A, I attempted to discover wheather the case that two conductors with like charges can attract each other or not by **numerical simulation methods** (using Mathematica). It turned out to be true before I finished my report and performed a presentation of the (tiny) research experience.
+
+⏬ Click to download the **[CHINESE VERSION](https://academic.luosw.com.cn/files/ep.pdf)** of the research paper in PDF.
+
+⏬ Click to download the **[PRESENTATION SLIDES](https://academic.luosw.com.cn/files/er.pdf)** of the report in PDF.
+
 # ⏰ Course Examinations of Previous Years
 
 # 😍 Precious Template
