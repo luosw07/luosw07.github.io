@@ -1,7 +1,7 @@
 ---
 title: "🌟 Mathematical Analysis Lecture"
 collection: talks
-type: "Talk"
+type: "Lecture"
 permalink: /talks/2024-12-22-mathematical-analysis
 venue: "University of Science and Technology of China, No.2 Teaching Building, 2121"
 date: 2024-12-22
