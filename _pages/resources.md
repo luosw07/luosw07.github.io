@@ -10,7 +10,7 @@ redirect_from:
 
 # 📒 Lecture Notes
 
-## 🌟 Introduction to Life Science & Medicine 生命科学与医学导论
+## 🌟 Introduction to Life Science & Medicine
 
 This course, whose **rating is based on the lecture notes**, is constructed by various lectures of different topics on biology & medicine by famous experts in these fields.
 
@@ -35,6 +35,14 @@ In the course Electromagnetism A, I attempted to discover wheather the case that
 ⏬ Click to download the **[CHINESE VERSION](https://academic.luosw.com.cn/files/ep.pdf)** of the research paper in PDF.
 
 ⏬ Click to download the **[PRESENTATION SLIDES](https://academic.luosw.com.cn/files/er.pdf)** of the report in PDF.
+
+## "Science & Society" Freshman Seminar
+
+We constructed an experiment to discover the relationship between attention and the working memory. Additionally, we also attempted to discover the method by which we remember colours in working memory.
+
+⏬ Click to download the **[CHINESE VERSION](https://academic.luosw.com.cn/files/ssfs.pdf)** of the research paper in PDF.
+
+⏬ Click to download the **[PRESENTATION SLIDES](https://academic.luosw.com.cn/files/1.pdf)** of the report in PDF.
 
 # ⏰ Course Examinations of Previous Years
 
