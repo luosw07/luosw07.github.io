@@ -6,6 +6,7 @@ permalink: /research/representation-of-finite-and-compact-group-seminar
 venue: "Advisor: Prof. Shucheng YU, University of Science and Technology of China, No.5 Teaching Building, 5207"
 date: 2025-02-27
 location: "Hefei, Anhui, China"
+paperurl: https://academic.luosw.com.cn/files/reprensentation-seminar-1.pdf
 ---
 
 Under the guidance of **[Prof. Shucheng YU](https://sites.google.com/site/shuchengyu126/)** at USTC, a seminar on representation of finite groups and compact groups is organized.
