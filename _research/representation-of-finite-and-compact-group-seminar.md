@@ -3,7 +3,7 @@ title: "🌟 Representation of Finite & Compact Group Seminar"
 collection: research
 type: "Seminar"
 permalink: /research/representation-of-finite-and-compact-group-seminar
-venue: "Advisor: Prof. Shucheng YU, University of Science and Technology of China, No.5 Teaching Building, 5207"
+venue: "USTC, No.5 Teaching Building, 5207"
 date: 2025-02-27
 location: "Hefei, Anhui, China"
 paperurl: https://academic.luosw.com.cn/files/reprensentation-seminar-1.pdf
