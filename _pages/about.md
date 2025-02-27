@@ -45,7 +45,7 @@ I visited **Wuhan University** in fall and **Shanghai Jiaotong University** in s
 
 ## ⏰ Sophomore year
 
-In the second year of undergraduate, I was enrolled in the **Hua Loo-Keng Talent Program in Mathematics**. During this year, I have learned classical theory of partial differential equaions, functional analysis and point-set or algebraic topology and attended seminar of representation theory & smooth manifolds.
+In the second year of undergraduate, I was enrolled in the **Hua Loo-Keng Talent Program in Mathematics**. During this year, I have learned classical theory of partial differential equaions, functional analysis and point-set or algebraic topology and attended seminar of representation theory (Advisor: [Prof. Shucheng YU](https://sites.google.com/site/shuchengyu126/)) & smooth manifolds and performed some talks.
 
 I visited **Fudan University** as a member of the Hua Loo-Keng Talent Program in Mathematics.
 
