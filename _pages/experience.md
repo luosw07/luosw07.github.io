@@ -42,9 +42,7 @@ study.
 
 - 👥 **Host Supervisors:** **[Dr. Xiaosong HE](https://faculty.ustc.edu.cn/HEXIAOSONG/en/index.htm)** 
 
-- 📖 **Brief Description**: We constructed an experiment to discover the relationship between attention
-and the working memory. Additionally, we also attempted to discover the
-method by which we remember colours in working memory.
+- 📖 **Brief Description**: We constructed an experiment to discover the relationship between attention and the working memory. Additionally, we also attempted to discover the method by which we remember colours in working memory.
 
 - 💻 **Presentation Slides**: [click here to download](/files/1.pdf)
 
