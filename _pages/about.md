@@ -20,10 +20,11 @@ redirect_from:
 
 # 🥇 Selected Honor
 
+🌟 **2025 S.-T. Yau College Student Mathematics Contest: Honorable Mention in Written Exam (Analysis and Partial Differential Equations)** 
+
 🌟 Member of the School of the Gifted Young
 
-🌟 Member of the Hua Loo-Keng Talent Program in
-Mathematics
+🌟 Member of the Hua Loo-Keng Talent Program in Mathematics
 
 🌟 2023 Outstanding Freshman Scholarship
 
@@ -35,7 +36,7 @@ Mathematics
 # 📑 Brief Experience
 
 ## 📖 Freshman Year
- In the freshman year, I found myself interested in **pure mathematics**, especially in **algebra**. During this year, I learned about basic course in mathematics and physics, including analysis, linear & modern algebra, mechanics and electromagnetism. 
+In the freshman year, I found myself interested in **pure mathematics**, especially in **algebra**. During this year, I learned about basic course in mathematics and physics, including analysis, linear & modern algebra, mechanics and electromagnetism. 
  
 During the summer vacation, I attended the **[2024 Algebra & Number Theory Summer School](http://antss.amss.ac.cn)** mainly held by **Academy of Mathematics and Systems Science, CAS** and **[Prof. Shouwu ZHANG](https://web.math.princeton.edu/~shouwu/)** from **Princeton University** and learned a little about algebraic geometry, algebraic number theory and representation theory of finite groups.
 
@@ -48,6 +49,8 @@ I visited **Wuhan University** in fall and **Shanghai Jiaotong University** in s
 In the second year of undergraduate, I was enrolled in the **Hua Loo-Keng Talent Program in Mathematics**. During this year, I have learned classical theory of partial differential equaions, functional analysis and point-set or algebraic topology and attended seminar of representation theory (Advisor: [Prof. Shucheng YU](https://sites.google.com/site/shuchengyu126/)) & smooth manifolds and performed some talks.
 
 I visited **Fudan University** as a member of the Hua Loo-Keng Talent Program in Mathematics.
+
+I attended the 2025 S.-T. Yau College Student Mathematics Contest and obtained **Honorable Mention in Written Exam** on Analysis and Partial Differential Equations.
 
 I will perform a 2-month summer research on nonlinear PDEs under the guidance of **[Prof. Zhouping XIN](https://www.google.com/search?client=safari&rls=en&q=zhouping+xin&ie=UTF-8&oe=UTF-8)** and **[Prof. Renjun DUAN](http://www.math.cuhk.edu.hk/~rjduan/)** at **Institude of Mathematical Science, Chinese University of Hong Kong** this summer vacation.
 

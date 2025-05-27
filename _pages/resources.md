@@ -44,8 +44,6 @@ We constructed an experiment to discover the relationship between attention and 
 
 ⏬ Click to download the **[PRESENTATION SLIDES](https://academic.luosw.com.cn/files/1.pdf)** of the report in PDF.
 
-# ⏰ Course Examinations of Previous Years
-
 # 😍 Precious Template
 
 ## 🌟 Template for Physics Experiment Report
