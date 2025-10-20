@@ -22,14 +22,7 @@ redirect_from:
 
 - 👥 **Host Supervisors:** **[Prof. Zhouping XIN](https://www.google.com/search?client=safari&rls=en&q=zhouping+xin&ie=UTF-8&oe=UTF-8)** and **[Prof. Renjun DUAN](http://www.math.cuhk.edu.hk/~rjduan/)**
 
-- 📖 **Brief Description**: Do the mathematical study under the guidance of Professor Zhouping Xin. The main
-research field is to focus on the nonlinear Partial Differential Equations (PDEs), a rich
-and interdisciplinary field for understanding, analyzing, and solving equations
-involving partial derivatives of unknown functions, where the equations are nonlinear
-in nature. The task is to explore important research directions in the field of nonlinear
-PDEs and gain broader interests and knowledges for preparing the future postgraduate
-study.
-
+- 📖 **Brief Description**: Conducted a focused study of Fisher information methods in kinetic theory (Villani review), translating theory to a finite-velocity discrete model; derived convergence and stability estimates using entropy/Fisher tools.
 
 
 ## 🌟 2024 "Science & Society" Seminar for Freshman
@@ -62,13 +55,11 @@ study.
 
 - 🎓 **Expect Graduation:** July 2027
 
-- 📝 **Latest GPA:** **3.94**/4.30 (**91.33**/100)
-
-- 👥 **Latest Rank:** **15th**/205 among all students majoring in Mathematics at USTC
+- 📝 **Latest GPA:** **3.98**/4.30 (**91.93**)
 
 ### 📖 Freshman Year
 
-In the freshman year, I found myself interested in **pure mathematics**, especially in **algebra**. The course *Fundation of Algebra* makes me able to attempt to construct seminar on commutative algebra.
+In the freshman year, I found myself interested in **pure mathematics**, especially in **algebra**. The course *Foundation of Algebra* makes me able to attempt to construct seminar on commutative algebra.
 
 ### ⏰ Sophomore year
 
@@ -96,6 +87,10 @@ Semisimple based on the textbook P. WEBB _A Course in Finite Group Representatio
 🌟 2024 Scholarship for Hua Loo-Keng Talent Program in Mathematics
 
 🌟 2024 Chen Linyi Honored Scholarship
+
+🌟 2025 Huawei Scholarship
+
+🌟 2025 Scholarship for Hua Loo-Keng Talent Program in Mathematics
 
 ## ✍️ High School
 ![NFLS](https://upload.wikimedia.org/wikipedia/zh/b/bc/NFLS_logo.png){: .center}

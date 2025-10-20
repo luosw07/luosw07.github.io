@@ -12,11 +12,9 @@ redirect_from:
 ![SGY](https://sgy.ustc.edu.cn/_upload/tpl/15/39/5433/template5433/htmlRes/logo1.png){: .center}
 
 
-📚 I'm now a **17-year-old sophomore** undergraduate student majoring **pure & applied mathematics**.
+📚 I'm now a **18-year-old junior** undergraduate student majoring **pure & applied mathematics**.
 
-🔬 My study & research interest is now in (pure or applied) **partial differential equations (PDEs).** 
-
-🎡 I am now a member in the Academic Department of the **Student Union of School of the Gifted Young**.
+🔬 My study & research interest is now in **kinetic theory, statistical physics & PDEs.** 
 
 # 🥇 Selected Honor
 
@@ -31,6 +29,10 @@ redirect_from:
 🌟 2024 Scholarship for Hua Loo-Keng Talent Program in Mathematics
 
 🌟 2024 Chen Linyi Honored Scholarship 
+
+🌟 2025 Huawei Scholarship
+
+🌟 2025 Scholarship for Hua Loo-Keng Talent Program in Mathematics
 
 
 # 📑 Brief Experience
@@ -52,14 +54,17 @@ I visited **Fudan University** as a member of the Hua Loo-Keng Talent Program in
 
 I attended the 2025 S.-T. Yau College Student Mathematics Contest and obtained **Honorable Mention in Written Exam** on Analysis and Partial Differential Equations.
 
-I will perform a 2-month summer research on nonlinear PDEs under the guidance of **[Prof. Zhouping XIN](https://www.google.com/search?client=safari&rls=en&q=zhouping+xin&ie=UTF-8&oe=UTF-8)** and **[Prof. Renjun DUAN](http://www.math.cuhk.edu.hk/~rjduan/)** at **Institude of Mathematical Science, Chinese University of Hong Kong** this summer vacation.
+I performed a 2-month summer research on nonlinear PDEs under the guidance of **[Prof. Zhouping XIN](https://www.google.com/search?client=safari&rls=en&q=zhouping+xin&ie=UTF-8&oe=UTF-8)** and **[Prof. Renjun DUAN](http://www.math.cuhk.edu.hk/~rjduan/)** at **Institude of Mathematical Science, Chinese University of Hong Kong** this summer vacation. The basic topic is about **Fisher Information in Kinetic Theory**. I conducted a focused study of Fisher information methods in kinetic theory (Villani review), translating theory to a finite-velocity discrete model; derived convergence and stability estimates using entropy/Fisher tools.
 
 # 📪 Contact Information
 
-- 📧 **Email:** [luosw@mail.ustc.edu.cn](mailto:luosw@mail.ustc.edu.cn) (suggested 🎉)
+- 📧 **Email:** 
+  - [luosw07@gmail.com](mailto:luosw07@gmail.com) (suggested 🎉)
+  - [luosw@mail.ustc.edu.cn](mailto:luosw@mail.ustc.edu.cn)
+  - [swluo@ims.cuhk.edu.hk](mailto:swluo@ims.cuhk.edu.hk) (during summer research at CUHK)
 
-- 📱 **Cell Phone:** (+86) 152 5605 0615 
+- 📱 **Cell Phone:**
+  - (+86) 152 5605 0615 (Primary)
+  - (+852) 5583 1203 (Hong Kong)
 
-- 🌍 **QQ Number:** 2986497980 (to make friends 🧑‍🤝‍🧑)
-
-- 🏬 **Contact Address:** University of Science and Technology of China, Baohe Distinct, Hefei, Anhui, PRChina.
+- 🏬 **Contact Address:** University of Science and Technology of China, Baohe District, Hefei, Anhui, PRChina.
