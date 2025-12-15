@@ -12,11 +12,11 @@ redirect_from:
 
 > This is only a **brief** list of my academic research experience with highlights of each research. The detailed information of each experience can be found at the **[research page](/research)**.
 
-## 🌟 2025 Summer Research Placement
+## 🌟 2025 Summer Research in Kinetic Theory
 
 - 🌍 **Location:** Hong Kong, China
 
-- ⏰ **Expected Time:** July 2025 - August 2025
+- ⏰ **Time:** July 2025 - August 2025
 
 - 🏠 **Host Unit:** **[Institude of Mathematical Science](http://www.ims.cuhk.edu.hk), [Chinese University of Hong Kong](https://cuhk.edu.hk)**
 
@@ -25,19 +25,20 @@ redirect_from:
 - 📖 **Brief Description**: Conducted a focused study of Fisher information methods in kinetic theory (Villani review), translating theory to a finite-velocity discrete model; derived convergence and stability estimates using entropy/Fisher tools.
 
 
-## 🌟 2024 "Science & Society" Seminar for Freshman
+## Boltzmann Equation with Mass Exchange (based on Degond-Liu’s work)
 
 - 🌍 **Location:** Hefei, Anhui, China
 
-- ⏰ **Time:** March 2024 - June 2024
+- ⏰ **Expected Time:** December 2025 - May 2026
 
-- 🏠 **Host Unit:** **[School of the Gifted Young](http://sgy.ustc.edu.cn), [University of Science and Technology of Science](https://ustc.edu.cn)**
+- 🏠 **Host Unit:** **[School of Mathematical Sciences](https://math.ustc.edu.cn), [University of Science and Technology of China](https://ustc.edu.cn)**
 
-- 👥 **Host Supervisors:** **[Dr. Xiaosong HE](https://faculty.ustc.edu.cn/HEXIAOSONG/en/index.htm)** 
+- 👥 **Host Supervisor:** **Prof. Shunlin SHEN**
 
-- 📖 **Brief Description**: We constructed an experiment to discover the relationship between attention and the working memory. Additionally, we also attempted to discover the method by which we remember colours in working memory.
-
-- 💻 **Presentation Slides**: [click here to download](/files/1.pdf)
+- 📖 **Brief Description**: 
+  - Studied Degond-Liu’s mass–exchange Boltzmann model on a mass lattice and formulated a continuous-mass Boltzmann equation as a scaling limit. Established weak compactness of ($f^\varepsilon$) using Dunford–Pettis type arguments and time equicontinuity from the weak formulation.
+  - Performed a consistency analysis of the collision operator via truncation and Riemann–sum approximations, exploiting $C^1$-regularity of the kernel and exchange map to identify the continuous-mass limit.
+  - *Work in progress*: stability and uniqueness in a local dual (Wasserstein-type) metric and quantitative $O(\varepsilon)$ convergence.
 
 # 🏫 Education Experience
 

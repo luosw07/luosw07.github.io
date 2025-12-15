@@ -56,6 +56,18 @@ I attended the 2025 S.-T. Yau College Student Mathematics Contest and obtained *
 
 I performed a 2-month summer research on nonlinear PDEs under the guidance of **[Prof. Zhouping XIN](https://www.google.com/search?client=safari&rls=en&q=zhouping+xin&ie=UTF-8&oe=UTF-8)** and **[Prof. Renjun DUAN](http://www.math.cuhk.edu.hk/~rjduan/)** at **Institude of Mathematical Science, Chinese University of Hong Kong** this summer vacation. The basic topic is about **Fisher Information in Kinetic Theory**. I conducted a focused study of Fisher information methods in kinetic theory (Villani review), translating theory to a finite-velocity discrete model; derived convergence and stability estimates using entropy/Fisher tools.
 
+
+## ✍️ Junior year
+
+In the junior year, I focus my research interest on kinetic theory (maybe joint with statistics, probability theory, machine learning and analysis). 
+
+In the first semester, I worked as a TA for **Foundation of Algebra** and **Foundation of Geometry** courses for the freshmen of the School of the Gifted Young with advisor **[Prof. Junchao Shentu](https://www.researchgate.net/profile/Junchao-Shentu)**. I will work as a TA for **Complex Analysis (H)(En)** course for the Hua Loo-Keng Talent Program in Mathematics in the second semester with advisor **[Prof. Bing WANG](https://ustcwangbing.github.io)**.
+
+I will perform a 1-year research in USTC under the guidance of **[Prof. Shunlin Shen](https://shunlinshen.github.io)** on kinetic theory starting from Dec 2025 and plan to go to UW Madison for a 3-month research visit in summer 2026 under the guidance of **[Prof. Qin Li](https://sites.google.com/view/qinlimadison/home)**.
+
+I vistied **Xiaman University** as a member of the Hua Loo-Keng Talent Program in Mathematics in Nov 2025.
+
+
 # 📪 Contact Information
 
 - 📧 **Email:** 
