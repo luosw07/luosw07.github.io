@@ -14,8 +14,8 @@ main:
   - title: "Talks (Seminar & Lecture)"
     url: /talks/
         
-#  - title: "Teaching Assistant"
-#    url: /ta/
+  - title: "TA"
+    url: /ta/
     
   - title: "Research"
     url: /research/
@@ -23,7 +23,7 @@ main:
   - title: "Latest CV (PDF)"
     url: /files/cv.pdf
     
-  - title: "Blog (External)"
-    url: https://luosw.com.cn
+  - title: "TA Website (External)"
+    url: https://algta.luosw.com.cn
 
   
