@@ -56,7 +56,7 @@ redirect_from:
 
 - 🎓 **Expect Graduation:** July 2027
 
-- 📝 **Latest GPA:** **3.98**/4.30 (**91.93**)
+- 📝 **Latest GPA:** **4.04**/4.30 (**92.42**)
 
 ### 📖 Freshman Year
 
